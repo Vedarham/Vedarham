@@ -20,8 +20,8 @@ I'm a **Full Stack Developer** and **AI/ML Engineer** passionate about building 
 
 - 🥉 **3rd Place** at HackIndore (SGSITS)
 - 🎯 **Top 100** at HackTron by ABV IIITM Gwalior among pan-India participants
-- 🌱 Currently learning **AWS Cloud Architecture** and **Advanced ML**
-- 💼 Outreach Head and Technical Co-Lead at **MU-ECELL** | Operations Head at **MU-STIC** | Junior Manager at **AIESEC in India**
+- Currently learning **AWS Cloud Architecture** and **Advanced ML**
+- Outreach Head and Technical Co-Lead at **MU-ECELL** | Operations Head at **MU-STIC** | Junior Manager at **AIESEC in India**
 
 ---
 
@@ -62,36 +62,35 @@ I'm a **Full Stack Developer** and **AI/ML Engineer** passionate about building 
 
 🔐 [InLeagle - Indian Banking Law AI Assistant](https://github.com/Vedarham/InLeagle01)
 RAG-powered legal AI assistant for Indian banking law
-🧠 Uses InLegal-Sbert embeddings with Qdrant Cloud vector database
-📚 Processed 8 SC judgments, 6 banking acts (SARFAESI, IBC, NI Act), RBI guidelines
-🚀 Deployed with FastAPI backend & Docker on HuggingFace Spaces
+Uses InLegal-Sbert embeddings with Qdrant Cloud vector database
+Processed 8 SC judgments, 6 banking acts (SARFAESI, IBC, NI Act), RBI guidelines
+Deployed with FastAPI backend & Docker on HuggingFace Spaces
 Tech: Python, FastAPI, RAG, Qdrant, Groq LLaMA, Docker
 🔗 [Live Demo](https://huggingface.co/spaces/vedastra/InLeagle-banking-law) | 💻 [View Code](https://github.com/Vedarham/InLeagle01)
 
 🛡️ [FraudShield - AI Scam Detection System](https://github.com/Vedarham/fraudshield01)
 Multilingual fraud detection with 92% accuracy
-🤖 Fine-tuned DistilBERT on 10,000+ scam/phishing messages
-🌍 Supports English, Hindi, Spanish with multilingual NLP
-🔌 Chrome Extension + FastAPI backend + Web UI
-📦 Published model: [vedastra/scam-phish-multilingual-model](https://huggingface.co/vedastra/scam-phish-multilingual-model)
+Fine-tuned DistilBERT on 10,000+ scam/phishing messages
+Supports English, Hindi, etc with multilingual NLP
+Chrome Extension + FastAPI backend + Web UI
+Published model: [vedastra/scam-phish-multilingual-model](https://huggingface.co/vedastra/scam-phish-multilingual-model)
 Tech: Python, DistilBERT, FastAPI, Chrome Extension API
 🔗 [Live Demo](https://fraudshield01-iota.vercel.app/) | 💻 [View Code](https://github.com/Vedarham/fraudshield01)
 
 🛍️ [Kalastra - AI-Enhanced E-Commerce](https://github.com/Vedarham/kalastra0)
 Voice-powered marketplace for artisans
-🎤 Voice-to-text product listing with Deepgram STT
-🤖 AI product enrichment using Gemini API
-💳 Stripe payment integration with JWT auth
-🔍 Intelligent search with semantic matching
+Voice-to-text product listing with Deepgram STT
+AI product enrichment using Gemini API
+Stripe payment integration with JWT auth
+Intelligent search with semantic matching
 Tech: MERN Stack, TypeScript, Gemini AI, Stripe, Deepgram
 🔗 [Live Demo](https://kalastra0-client.vercel.app/) | 💻 [View Code](https://github.com/Vedarham/kalastra0)
 
 💬 [Xapad - Real-Time Chat with AI Bot](https://github.com/Vedarham/Xapad)
 WebSocket chat app with RAG-powered AI assistant
-⚡ Real-time messaging using Socket.IO & WebSocket
-🤖 XaBot: AI chatbot with custom knowledge base (RAG + HuggingFace)
-💾 MongoDB for persistent message storage
-🎯 Context-aware responses with retrieval-augmented generation
+Real-time messaging using Socket.IO & WebSocket
+XaBot: AI chatbot with custom knowledge base (RAG + HuggingFace)
+MongoDB for persistent message storage
 Tech: Node.js, Express.js, Socket.IO, MongoDB, RAG
 🔗 [Live Demo](https://xapad.vercel.app/) | 💻 [View Code](https://github.com/Vedarham/Xapad)
 
@@ -133,7 +132,6 @@ Tech: Node.js, Express.js, Socket.IO, MongoDB, RAG
 I'm always interested in collaborating on innovative projects, especially in:
 - 🤖 AI/ML applications and research
 - 🌐 Full-stack development
-- 🔐 Cybersecurity and fraud detection
 - 🎓 Open-source contributions
 
 **📧 Email:** arhamjain8410@gmail.com  
@@ -148,6 +146,6 @@ I'm always interested in collaborating on innovative projects, especially in:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vedarham&color=brightgreen&style=for-the-badge)
 
-⭐️ From [Vedarham](https://github.com/Vedarham) | Sunburn At Night 🖖
+⭐️ From [Vedarham](https://github.com/Vedarham) | Midnight SunBurn 🖖
 
 </div>
