@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Arham Sabadra
+# 👋 Namaskaram, I'm Arham Sabadra
 
 ### Full Stack Developer | AI/ML Engineer | Hackathon Winner
 
@@ -18,7 +18,6 @@
 
 I'm a **Full Stack Developer** and **AI/ML Engineer** passionate about building scalable applications and intelligent systems. Currently pursuing B.Tech in Computer Science at Medicaps University, graduating in 2027.
 
-- 🏆 **Top 50** at Smart India Hackathon 2025
 - 🥉 **3rd Place** at HackIndore (SGSITS)
 - 🎯 **Top 100** at HackTron by ABV IIITM Gwalior among pan-India participants
 - 🌱 Currently learning **AWS Cloud Architecture** and **Advanced ML**
@@ -59,37 +58,42 @@ I'm a **Full Stack Developer** and **AI/ML Engineer** passionate about building 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+## 🏆 Featured Projects
 
-## 🌟 Featured Projects
+🔐 [InLeagle - Indian Banking Law AI Assistant](https://github.com/Vedarham/InLeagle01)
+RAG-powered legal AI assistant for Indian banking law
+🧠 Uses InLegal-Sbert embeddings with Qdrant Cloud vector database
+📚 Processed 8 SC judgments, 6 banking acts (SARFAESI, IBC, NI Act), RBI guidelines
+🚀 Deployed with FastAPI backend & Docker on HuggingFace Spaces
+Tech: Python, FastAPI, RAG, Qdrant, Groq LLaMA, Docker
+🔗 [Live Demo](https://huggingface.co/spaces/vedastra/InLeagle-banking-law) | 💻 [View Code](https://github.com/Vedarham/InLeagle01)
 
-### 🛡️ [FraudShield - AI Scam Detection](https://github.com/Vedarham/fraudshield01)
-**Tech:** Python, FastAPI, DistilBERT, Chrome Extension, React, Node.js  
-- Fine-tuned `distilbert-base-multilingual-cased` on 10,000+ messages achieving **92% accuracy**
-- Built multilingual fraud detection system with Chrome extension
-- Real-time phishing and scam detection with FastAPI backend
-- Multilingual support for English, Hindi, and regional languages
+🛡️ [FraudShield - AI Scam Detection System](https://github.com/Vedarham/fraudshield01)
+Multilingual fraud detection with 92% accuracy
+🤖 Fine-tuned DistilBERT on 10,000+ scam/phishing messages
+🌍 Supports English, Hindi, Spanish with multilingual NLP
+🔌 Chrome Extension + FastAPI backend + Web UI
+📦 Published model: [vedastra/scam-phish-multilingual-model](https://huggingface.co/vedastra/scam-phish-multilingual-model)
+Tech: Python, DistilBERT, FastAPI, Chrome Extension API
+🔗 [Live Demo](https://fraudshield01-iota.vercel.app/) | 💻 [View Code](https://github.com/Vedarham/fraudshield01)
 
-### 🛒 [Kalastra - AI-Powered E-Commerce](https://github.com/Vedarham/kalastra0)
-**Tech:** MERN Stack, TypeScript, Gemini AI, Deepgram STT, Stripe  
-- Voice-command product listing using Deepgram Speech-to-Text
-- AI-powered search and recommendations with Gemini API
-- Integrated Stripe payment gateway with JWT authentication
-- Full-stack marketplace with real-time features
+🛍️ [Kalastra - AI-Enhanced E-Commerce](https://github.com/Vedarham/kalastra0)
+Voice-powered marketplace for artisans
+🎤 Voice-to-text product listing with Deepgram STT
+🤖 AI product enrichment using Gemini API
+💳 Stripe payment integration with JWT auth
+🔍 Intelligent search with semantic matching
+Tech: MERN Stack, TypeScript, Gemini AI, Stripe, Deepgram
+🔗 [Live Demo](https://kalastra0-client.vercel.app/) | 💻 [View Code](https://github.com/Vedarham/kalastra0)
 
-### 💬 [Xapad - Real-Time Chat with AI Bot](https://github.com/Vedarham/Xapad)
-**Tech:** Node.js, Socket.IO, MongoDB, RAG, HuggingFace  
-- WebSocket-based real-time messaging platform
-- XaBot integration using RAG (Retrieval-Augmented Generation)
-- HuggingFace models for intelligent responses
-- Persistent chat history with MongoDB
-
-### 🌐 [E-Cell Website - E-Summit 2024](https://github.com/Vedarham/ecell-website)
-**Tech:** React.js, GSAP, Tailwind CSS  
-- Architected high-performance landing page with GSAP animations
-- Achieved **90+ Lighthouse score** with optimized responsive design
-- Interactive UI/UX for university entrepreneurship event
-
----
+💬 [Xapad - Real-Time Chat with AI Bot](https://github.com/Vedarham/Xapad)
+WebSocket chat app with RAG-powered AI assistant
+⚡ Real-time messaging using Socket.IO & WebSocket
+🤖 XaBot: AI chatbot with custom knowledge base (RAG + HuggingFace)
+💾 MongoDB for persistent message storage
+🎯 Context-aware responses with retrieval-augmented generation
+Tech: Node.js, Express.js, Socket.IO, MongoDB, RAG
+🔗 [Live Demo](https://xapad.vercel.app/) | 💻 [View Code](https://github.com/Vedarham/Xapad)
 
 ## 📊 GitHub Stats
 
